@@ -68,7 +68,7 @@ Performed analysis using Pandas:
 * Total Sales & Profit
 * Top 10 Products
 * Sales by Region
-* Monthly Sales Trends
+
 
 ---
 
@@ -91,7 +91,7 @@ GROUP BY Region;
 * 📌 West region generated the highest sales
 * 📌 Technology category performed best
 * 📌 Certain products consistently drive revenue
-* 📌 Sales show variation across months
+
 
 ---
 
